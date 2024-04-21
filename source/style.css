@@ -1,0 +1,111 @@
+
+ a:link {
+     color: #3f3b3b;
+     text-decoration: none;
+     background-color: transparent;
+ }
+
+ a:visited {
+     color: rgb(64, 61, 61);
+
+ }
+
+ a:hover {
+     color: #278ea5;
+     text-decoration: none;
+     background-color: transparent;
+ }
+
+ a:active {
+     color: #40514e;
+     text-decoration: none;
+     background-color: transparent;
+ }
+
+ .nav1 {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+ }
+
+ .item {
+    margin-right: 10px;
+
+ }
+
+ .form1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .inputs {
+    display: flex;
+    z-index: 3;
+    height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: calc(632px + 6px);
+    width: 584px;
+    max-width: 584px;
+    margin-top: 10px;
+ }
+
+ .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: system-ui,arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    max-width: 584px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    justify-content: center;
+  
+ }
+
+ .button1 {
+   background-color: #f8f9fa;
+   border: 1px solid #f8f9fa;
+   border-radius: 4px;
+   color: #3c4043;
+   font-family: system-ui,arial,sans-serif;
+   font-size: 14px;
+   margin: 11px 4px;
+   padding: 0 16px;
+   line-height: 27px;
+   height: 36px;
+   max-width: 584px;
+   text-align: center;
+   cursor: pointer;
+   user-select: none;
+   justify-content: center;
+   margin-left: 150px;
+ }
+
+.heading {
+   color: #d93025;
+   font-size: 20px;
+   margin: 25px 35px;
+}
+
+hr {
+   color: gray;
+   
+}
