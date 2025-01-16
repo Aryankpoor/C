@@ -1,2 +1,2 @@
-# hvcse
-https://deli-tr.vercel.app/
+# C
+College questions in C language (For my own reference)
